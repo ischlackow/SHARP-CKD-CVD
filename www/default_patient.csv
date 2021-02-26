@@ -1,0 +1,2 @@
+"","id","age","sex","ethnicity","education","adultDep","smoker","currentAlc","BMI_quant","DBP_quant","SBP_quant","CholHDL_quant","Albumin_quant","Hemoglobin_quant","Phosphate_quant","ACR_quant","CVD","DM","CKDStage","CKDDuration","renalDiagnosis","RRTDuration","TX"
+"1",1,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,0,0
