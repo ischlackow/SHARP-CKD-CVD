@@ -4,6 +4,8 @@ This release supplements the manuscript [A policy model of cardiovascular diseas
 
 * __code__ folder, __ui.R__ and __server.R__ files: code for simulating outcomes based on input of patient characteristics, together with implementation of the [user-friendly interface](http://dismod.ndph.ox.ac.uk/kidneymodel/app/) in R Shiny package. Please note that the interface page is no longer maintained and may not always be accessible.
 
+* __data__ folder: entry model parameters; eg risk equation coefficients (including coefficients needed for probabilistic sensitivity analyses (PSA)); description of model states adn their features & endpoints; default non-vascular death rates
+
 * __www__ folder: example files provided to help with the model use (example input and output analysis files); as well as glossary and a userguide.
 
 ## Contributors
